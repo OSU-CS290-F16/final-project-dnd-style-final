@@ -9,11 +9,24 @@ pi:2;
 {
   "ID:1":{
     "name":"location 1",
+    "location type":"store, inn, ext",
+    "inventory and prices":"what things are at the location and how much they cost if they are avalable to be purchased, or other things the location sells.",
     "notes":"these are notes maybe seporate them into different sections?"
   },
   
   "ID:2":{
     "name":"Location 2",
     "notes":"More notes about a location"
+  },
+  "ID:3":{
+    "name":"Name of the location",
+    "Type of location":"ie what type of goods/services do they provide or is it someother type of location",
+    "town size":"how big is the town that it is in",
+    "invintory and prices":"how much do they sell stuff for if they sell anything",
+    "owner":"who is the owner",
+    "description":"what does it look like",
+    "location":"where it is in the town",
+    "terrain":"what is the terrain that this location is in",
+    "notes":"other notes"
   }
 }
